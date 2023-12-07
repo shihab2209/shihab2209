@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=shihab2209)
+![](https://komarev.com/ghpvc/?username=shihab2209&style=flat-square&color=dbd3d8)
 <!--
 **shihab2209/shihab2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
