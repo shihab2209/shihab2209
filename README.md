@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sahadat%20Hossain&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Sahadat%20Hossain&fontSize=90&animation=twinkling)
 
 ![](https://komarev.com/ghpvc/?username=shihab2209&style=flat-square&color=red)
 <h1 align="center">👋Hey there, I am Shihab</h1>
@@ -10,11 +10,10 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shihab2209/)
 
 
-
 ## 🌟 About Me
 
-- 🎨 I’m a code artist who loves painting with pixels.
-- 💻 Building cool stuff with code and a sprinkle of magic.
+- 🎨 Passionate about coding.
+- 🌍 Embracing the journey of continuous learning, connecting with the tech community, and collaborating on exciting projects.
 - 🚀 Constantly exploring new technologies and their quirky possibilities.
 
 
@@ -130,4 +129,7 @@
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/sahadat-hossain1/)
 - Email: shihab2209@gmail.com
 
-Let's create and innovate together! 🚀
+
+<br>
+<p><a href="https://www.buymeacoffee.com/shihab2209"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shihab2209" /></a></p>
+</br>
