@@ -131,5 +131,5 @@
 
 
 <br>
-<p><a href="https://www.buymeacoffee.com/shihab2209"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shihab2209" /></a></p>
+<a href="https://www.buymeacoffee.com/shihab2209" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 </br>
